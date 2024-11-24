@@ -34,7 +34,7 @@ Os scripts SQL que solucionam as perguntas estão organizados na pasta `Resposta
 
 O enunciado em arquivo pdf está disponível na pasta `Descricao/`, que é o arquivo encontrado no LinkedIn.
 
-Além disso, o repositório inclui os seguintes arquivos de suporte:
+Além disso, o repositório inclui os seguintes arquivos de suporte, disponíveis na pasta `Arquivos auxiliares/`:
 - **Avaliação SQL.pdf:** Apresentação visual da distribuição das tabelas, assim como as perguntas.
 - **Diagrama Conceitual.pdf:** Esquema das relações entre as tabelas, visando uma representação visual das ligações.
 
